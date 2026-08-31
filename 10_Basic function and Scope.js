@@ -9,3 +9,4 @@ console.log(square(5));
 // Arrow function
 const cube = (x) => x*x*x;
 console.log(cube(3));
+
