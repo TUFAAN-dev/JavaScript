@@ -12,4 +12,3 @@ console.log(name,age,city);
 
 const {country = "USA"} = user;
 console.log(country);
-
